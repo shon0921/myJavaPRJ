@@ -5,5 +5,10 @@ public class Hello {
 
         System.out.println("Edit Java Code!");
         System.out.println("32131233");
+        System.out.println("32131233");
+        System.out.print("13123");
+        System.out.print("3333333");
+        System.out.println();
+        System.out.println("2131");
     }
 }
