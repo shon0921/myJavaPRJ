@@ -1,5 +1,8 @@
-public class Hello4 {
+package Hellos;
+
+public class Hello5 {
     public static void main(String[] args) {
+
         System.out.println("Stop");
     }
 }
