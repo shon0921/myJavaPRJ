@@ -8,5 +8,5 @@ public class Code02_05 {
         int c = a + b;
         System.out.println(a + "+" + b + "=" + c);
     }
-    //
+
 }
