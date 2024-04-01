@@ -9,7 +9,8 @@ public class Code05_04 {
             System.out.println("100보다 작군요.");
             System.out.println("여기는 참입니다.");
         }
-        else {
+        else
+        {
             System.out.println("100보다 크군요.");
             System.out.println("여기는 거짓입니다.");
         }
