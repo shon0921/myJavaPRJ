@@ -7,7 +7,7 @@ public class Code05_06 {
         Scanner s = new Scanner(System.in);
         int num;
 
-        System.out.println("숫자 입력 ==> ");
+        System.out.print("숫자 입력 ==> ");
         num = s.nextInt();
 
         if (num > 100)
