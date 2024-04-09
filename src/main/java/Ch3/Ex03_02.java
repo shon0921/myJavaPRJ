@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 // 손해성
 // 집을 만드는 거북이
-// up down 활용
+// Scanner 활용
 public class Ex03_02 {
     public static void main(String[] args) {
         Scanner s =new Scanner(System.in);
