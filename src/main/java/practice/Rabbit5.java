@@ -1,4 +1,3 @@
-package Test;
 class Rabbit{
     int xPos;
     int yPos;
