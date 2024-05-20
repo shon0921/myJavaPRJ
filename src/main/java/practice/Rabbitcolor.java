@@ -1,10 +1,8 @@
-package Test;
-
 class Rabbit{
     private String color;
     public void color(String color)
     {
-
+        color = color;
     }
 }
 
